@@ -1,3 +1,58 @@
 {
-"ABC123": "2024-12-31"
+  "showDialog": true,
+  "title": "🔐 ID Login",
+  "description":  " Dear team shakti sale'sedge  Mei 💐 (( 🧿time change + 🧿gallery photo + 🧿skip shakti shiksha ))💐 ka new update ready kr liya hai please support 🧿 Watsapp number: 🙏 9783774455 🧨 Next time hum or achi modification kr ske thanks for supporting 🧿 ",
+  "button": "LOGIN",
+  "toast": "✅ ID Successfully Logged In!",
+  "renewUrl": "https://t.me/hitesh125sf",
+  "devices": [
+    {
+      "device_id": "441ba50c4a2a94ce",
+      "username": "Username",
+      "password": "password",
+      "expire_date": "2026-10-20"
+    },
+    {
+      "device_id": "441ba50c4a2a94ce",
+      "username": "Username",
+      "password": "password",
+      "expire_date": "2026-10-20"
+    },
+    {
+      "device_id": "106eaaf36f207a4f",
+      "username": "Username",
+      "password": "password",
+      "expire_date": "2025-12-21"
+    },
+    {
+      "device_id": "97cc45af8cfaf6ce",
+      "username": "Username",
+      "password": "password",
+      "expire_date": "2025-12-24"
+    },
+    {
+      "device_id": "cdb4ef8f06aa16c2",
+      "username": "Username",
+      "password": "password",
+      "expire_date": "2025-12-24"
+    },
+    {
+      "device_id": "b9e60bf22cd51dec",
+      "username": "Username",
+      "password": "password",
+      "expire_date": "2026-12-21"
+    },
+    {
+      "device_id": "4abca34300c2bbc6",
+      "username": "Username",
+      "password": "password",
+      "expire_date": "2025-12-22"
+    },
+    {
+      "device_id": "5f78dbf1dcfd412e",
+      "username": "Username",
+      "password": "password",
+      "expire_date": "2025-12-28"
+    }
+  ]
 }
